@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2_Test/SDAM_Part_2_Test.csproj": {}
+  },
+  "projects": {
+    "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj",
+        "projectName": "SDAM_Part_2",
+        "projectPath": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj",
+        "packagesPath": "/Users/julesskinner/.nuget/packages/",
+        "outputPath": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/julesskinner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2_Test/SDAM_Part_2_Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2_Test/SDAM_Part_2_Test.csproj",
+        "projectName": "SDAM_Part_2_Test",
+        "projectPath": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2_Test/SDAM_Part_2_Test.csproj",
+        "packagesPath": "/Users/julesskinner/.nuget/packages/",
+        "outputPath": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2_Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/julesskinner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj": {
+                "projectPath": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "MSTestX.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
