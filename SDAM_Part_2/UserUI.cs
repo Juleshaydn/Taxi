@@ -31,7 +31,7 @@ namespace SDAM_Taxi_Main
                 {
                     var transactionDateTime = DateTime.Now;
                     bool priceWasPaid = false;
-                    //creates drop transation if fare was paid in full
+                    //creates drop transation if fare was fully paid
                     DropTransaction dropTransaction = new DropTransaction(transactionDateTime, taxiNum, priceWasPaid);
 
                     TaxiDropsFareText.Add($"{dropTransaction}");

@@ -1,0 +1,40 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{DECCADF3-B219-41B7-853F-8665232DD318}|Default">
+  <MonoDevelop.Ide.ItemProperties.SDAM__Part__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SDAM_Part_2/UserUI.cs">
+    <Files>
+      <File FileName="SDAM_Part_2/UserUI.cs" Line="35" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SDAM_Part_2" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="SDAM_Part_2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SDAM_Part_2" expanded="True" selected="True">
+            <Node name="SDAM_Part_2_Test" expanded="True">
+              <Node name="TaxiManagementTests" expanded="True">
+                <Node name="_01_Taxi_Tests" expanded="True" />
+                <Node name="_02_Rank_Tests" expanded="True" />
+                <Node name="_03_Transactions_Tests" expanded="True" />
+                <Node name="_04_TaxiManager_Tests" expanded="True" />
+                <Node name="_05_RankManager_Tests" expanded="True" />
+                <Node name="_06_TransactionManager_Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
