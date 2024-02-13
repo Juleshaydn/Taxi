@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj": {}
+    "/Users/julesskinner/Documents/Uni/Year 1/SDAM/Submission/taxi/SDAM_Part_2/SDAM_Part_2.csproj": {}
   },
   "projects": {
-    "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj": {
+    "/Users/julesskinner/Documents/Uni/Year 1/SDAM/Submission/taxi/SDAM_Part_2/SDAM_Part_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj",
+        "projectUniqueName": "/Users/julesskinner/Documents/Uni/Year 1/SDAM/Submission/taxi/SDAM_Part_2/SDAM_Part_2.csproj",
         "projectName": "SDAM_Part_2",
-        "projectPath": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/SDAM_Part_2.csproj",
+        "projectPath": "/Users/julesskinner/Documents/Uni/Year 1/SDAM/Submission/taxi/SDAM_Part_2/SDAM_Part_2.csproj",
         "packagesPath": "/Users/julesskinner/.nuget/packages/",
-        "outputPath": "/Users/julesskinner/Documents/Uni/SDAM/taxi/SDAM_Part_2/obj/",
+        "outputPath": "/Users/julesskinner/Documents/Uni/Year 1/SDAM/Submission/taxi/SDAM_Part_2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/julesskinner/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
         }
       }
     }
